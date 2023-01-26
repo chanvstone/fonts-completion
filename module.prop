@@ -4,3 +4,4 @@ version=1.0
 versionCode=1
 author=chanvstone
 description=font completion
+updateJson=https://raw.githubusercontent.com/chanvstone/fonts-completion/main/update.json
